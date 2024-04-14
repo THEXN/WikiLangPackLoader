@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ResourcePack.zip" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="ResourcePack.zip" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="TShock" Version="5.2.0" />
+  </ItemGroup>
+
+</Project>
