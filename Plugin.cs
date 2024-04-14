@@ -33,7 +33,7 @@ namespace WikiLangPackLoader
         }
         public override void Initialize()
         {
-            ServerApi.Hooks.GamePostInitialize.Register(this, Init);
+            ServerApi.Hooks.GamePostInitialize.Register(this, Init,int.MinValue);
         }
 
         private void Init(EventArgs args)
