@@ -18,8 +18,8 @@
 > for a better game experience.  
 > 由官方 Terraria Wiki 编辑团队制作维护的简体中文语言包，旨在修正翻译错误，提供更好游戏体验。  
 > 更多相关信息与问题报告，请移步：  
-> https://terraria.wiki.gg/zh/wiki/语言包\n\n\n\nOfficial Unofficial Translation  
->   
+> https://terraria.wiki.gg/zh/wiki/语言包  
+>Official Unofficial Translation   
 > Powered by Official Terraria Wiki Team  
 > For the players, by the players.  
   
