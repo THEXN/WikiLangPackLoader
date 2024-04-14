@@ -4,15 +4,15 @@
 ----------
 ## 使用方法:
 
-**1.将插件安装在ServerPlugins/
-2.重启服务器**
+**1.将插件安装在ServerPlugins/  
+2.重启服务器**  
 
 
 ----------
 
 ## 关于语言包：
-来源: **Steam创意工坊 (官方 Wiki 中文语言包)**
-作者: **Wiki 中文编辑团队** (本插件作者不属于Wiki 中文编辑团队) 
+来源: **Steam创意工坊 (官方 Wiki 中文语言包)**  
+作者: **Wiki 中文编辑团队** (本插件作者不属于Wiki 中文编辑团队)   
 
 > Includes translation fixes by our wiki editors 
 > for a better game experience.
